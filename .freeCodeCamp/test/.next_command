@@ -211,3 +211,5 @@ help rm
 man rm
 ./insert_data.sh
 ./insert_data.sh
+$IFS != '11'
+__vsc_prompt_cmd_original
