@@ -161,3 +161,4 @@ __vsc_prompt_cmd_original
 IFS=","
 ./insert_data.sh
 ./insert_data.sh
+./insert_data.sh
